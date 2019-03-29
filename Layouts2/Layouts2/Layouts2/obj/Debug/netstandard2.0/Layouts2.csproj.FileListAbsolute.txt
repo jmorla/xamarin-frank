@@ -1,0 +1,12 @@
+C:\Users\jmorla\source\repos\Layouts2\Layouts2\Layouts2\bin\Debug\netstandard2.0\Layouts2.deps.json
+C:\Users\jmorla\source\repos\Layouts2\Layouts2\Layouts2\bin\Debug\netstandard2.0\Layouts2.dll
+C:\Users\jmorla\source\repos\Layouts2\Layouts2\Layouts2\bin\Debug\netstandard2.0\Layouts2.pdb
+C:\Users\jmorla\source\repos\Layouts2\Layouts2\Layouts2\obj\Debug\netstandard2.0\Layouts2.csprojAssemblyReference.cache
+C:\Users\jmorla\source\repos\Layouts2\Layouts2\Layouts2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jmorla\source\repos\Layouts2\Layouts2\Layouts2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jmorla\source\repos\Layouts2\Layouts2\Layouts2\obj\Debug\netstandard2.0\Layouts2.csproj.CoreCompileInputs.cache
+C:\Users\jmorla\source\repos\Layouts2\Layouts2\Layouts2\obj\Debug\netstandard2.0\Layouts2.AssemblyInfoInputs.cache
+C:\Users\jmorla\source\repos\Layouts2\Layouts2\Layouts2\obj\Debug\netstandard2.0\Layouts2.AssemblyInfo.cs
+C:\Users\jmorla\source\repos\Layouts2\Layouts2\Layouts2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jmorla\source\repos\Layouts2\Layouts2\Layouts2\obj\Debug\netstandard2.0\Layouts2.dll
+C:\Users\jmorla\source\repos\Layouts2\Layouts2\Layouts2\obj\Debug\netstandard2.0\Layouts2.pdb
